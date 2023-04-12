@@ -162,7 +162,7 @@
   --tab-border-color: #777;
   --interactive-muted: #999;
   --text-disabled: #bebebe;
-  --menu-item-hover: rgba(0,0,0,0.1);
+  --menu-item-hover: rgba(145, 0, 60, 0.144);
   --menu-item-select: rgba(0,0,0,0.125);
   --menu-item-select-accent-opacity: 0.4;
   --menu-item-text-color: #333;
